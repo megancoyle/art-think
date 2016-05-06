@@ -21,6 +21,7 @@ h2 {
 	transform: translateY(-50%);
 	padding: 40px;
 	text-align: center;
+	min-height: 400px;
 }
 p#text {
     margin-top: 20px;
