@@ -7,5 +7,6 @@ Artist Statement Generator by Megan Coyle
 
 <p>More "artist statements" are on their way. As well as some additional styling for the index page.</p>
 
-![ScreenShot](/images/art-think-screenshot.jpg)
-<p><a href="http://megancoyle.github.io/art-think/">View the current version of the Artist Statement Generator Here</a></p>
+[View the current version of the Artist Statement Generator Here](http://megancoyle.github.io/art-think/)
+
+[![Art Think Screenshot](/images/art-think-screenshot.jpg)](http://megancoyle.github.io/art-think/)
